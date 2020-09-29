@@ -11,7 +11,7 @@
  <br>
 • Utilized CSS transition tools to simulate animations.
 <br>
-• Utilized knowledge of CSS positioning to create readable and user-friendly backgrounds and transitions.
+• Utilized knowledge of CSS positioning to create readable and user-friendly nav bar, backgrounds, and transitions.
 <br>
 • Used knowledge of media queries and break points to make responsive design.
 
