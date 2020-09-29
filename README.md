@@ -3,7 +3,7 @@
   <br>
   <span>Project Dates: Sep 2020 - Sep 2020</span>
   <br>
-  <span>Github Pages URL: </span>
+  <span>Github Pages URL: https://shaunhoshenteck.github.io/Personal-Website/</span>
 </p>
 • Designed a personal website using CSS and HTML that is hosted on Github Pages.
  <br>
